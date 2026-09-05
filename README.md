@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ApoorvMathur28">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Digital+Design+%26+Verification+Engineer;RTL+%E2%86%92+GDSII+%7C+UVM+%7C+Constrained-Random+Verification;Occasionally+I+build+full-stack+IoT+things+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Digital+Design+%26+Verification+Engineer;RTL+%E2%86%92+GDSII+%7C+UVM+%7C+Constrained-Random+Verification;Occasionally+I+build+full-stack+IoT+things+for+fun" alt="Typing SVG" />
 </a>
 
 </div>
